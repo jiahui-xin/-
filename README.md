@@ -1,5 +1,5 @@
 # 唐诗生成
-分别基于bigram和lstm
+分别使用bigram和lstm，其中lstm的实现参考了[DRSY@github](https://github.com/DRSY/poetry-gen)，并使用colab的免费gpu资源加速。
 
 ## mytangshi.R
 
